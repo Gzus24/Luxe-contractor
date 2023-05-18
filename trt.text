@@ -1,0 +1,31 @@
+<section class="contact-us">
+                <div class="row">
+                    <div class="contact-col">
+                        <div>
+                            <span>
+                                <i class="fa fa-home con"></i>
+                                <h5>Address</h5>
+                                <p>riverside, ca 92507</p>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="contact-col">
+                        <div>
+                            <span>
+                                <i class="fa fa-phone con"></i>
+                                <h5>Phone Number</h5>
+                                <p>Monday to Friday 9AM to 5PM</p>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="contact-col">
+                        <div>
+                            <span>
+                                <i class="fa fa-envelope con"></i>
+                                <h5>LuxeContractor@gmail.com</h5>
+                                <p>Email us for any questions</p>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </section>
